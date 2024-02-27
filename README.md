@@ -3,6 +3,8 @@
 
 int main(void)
 {
-    printf("Hello, World da piz\n");
+    printf("Hello, World\n");
     return 0;
 }
+
+Pirovoz
